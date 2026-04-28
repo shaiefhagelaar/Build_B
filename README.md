@@ -2,10 +2,9 @@
 
 ---
 
-GPU = $3,349.99
+GPU = $3,109.99
 
-https://www.microcenter.com/product/690033/NVIDIA_GeForce_RTX_5090_TUF_Gaming_Overclocked_Triple_Fan_32GB_GDDR7_PCIe_50_Graphics_Card
-
+https://www.bestbuy.com/product/asus-tuf-gaming-nvidia-geforce-rtx-5090-32gb-gddr7-pci-express-5-0-graphics-card-black/JJGGLHJVR7?cmp=RMX&refdomain=nvidia.com&intl=nosplash
 
 --- 
 
@@ -14,11 +13,11 @@ https://www.microcenter.com/product/695240/arctic-cooling-liquid-freezer-iii-pro
 
 ---
 
-CPU | MB | RAM Bundle = $679.99
+CPU | MB | RAM Bundle = $729.99
 
-https://www.microcenter.com/product/5007392/amd-ryzen-7-9800x3d,-asus-b650e-e-tuf-gaming-wifi-am5,-corsair-vengeance-rgb-32gb-ddr5-6000-kit,-computer-build-bundle
+https://www.microcenter.com/product/5007327/amd-ryzen-7-9800x3d,-msi-x870e-p-pro-wifi,-corsair-vengeance-rgb-32gb-ddr5-6000-kit,-computer-build-bundle
 
-MB: https://www.microcenter.com/product/695506/asus-b650e-e-tuf-gaming-wifi-amd-am5-atx-motherboard
+MB: https://www.msi.com/Motherboard/PRO-X870E-P-WIFI/support
 
 ---
 
