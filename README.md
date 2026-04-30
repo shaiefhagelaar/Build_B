@@ -63,3 +63,9 @@ https://www.newegg.com/p/1YF-005G-000H9
 OS
 
 Windos Pro = $25
+
+---
+
+Optional:
+
+https://www.techpowerup.com/348591/corsair-launches-thermalprotect-pcie-5-1-600w-12v-2x6-cable-to-protect-gpus-from-overheating
